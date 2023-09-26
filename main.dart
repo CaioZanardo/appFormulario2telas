@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'data_display.dart';
-import 'detalhes_page.dart';
 
 void main() {
   runApp(MyApp());
